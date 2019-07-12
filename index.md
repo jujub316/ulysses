@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/jujub316/ulysses/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ulysses is a Distributed Ledger-enabled System and Method for Enforcement of Collective Liability
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Namesake
 
-### Markdown
+_The Odyssey_ is a tale by Homer written in the 8th century, describing Ulysses journey home after the Trojan War. In one story, Ulysses has his crew tie him to the mast so as to not be lured by the deadly Sirens.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Use Case - Gun Violence
 
-```markdown
-Syntax highlighted code block
+### Second Amendment
 
-# Header 1
-## Header 2
-### Header 3
+_"A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed."_
 
-- Bulleted
-- List
+### Details
 
-1. Numbered
-2. List
+Blockchain, the distributed-ledger technology behind Bitcoin and other cryptocurrencies, paves the way for a 21st century definition of a “well-regulated militia”. This decentralized technology (specifically smart contracts) could be used to share liability - a “well-regulated militia” could be a group of individuals that shares the risk for an individual’s weapon. If you are a gun owner, a well regulated militia could be a group of people who believe you are OK to have a firearm. They so much believe that you are ok, that they will collectively bear the financial and legal responsibility in case you go “off the rails” or fail to prevent a child from taking your weapon. They might also be assured that you won’t hurt yourself with your own weapon. If you want a weapon and you are trustworthy and healthy, surely it will not be difficult to find others who agree.
 
-**Bold** and _Italic_ and `Code` text
+## Other Use Cases
+- unsafe elderly drivers
+- dictatorships
+- smartphone addiction
 
-[Link](url) and ![Image](src)
-```
+## Feedback? Questions?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jujub316/ulysses/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact me at jb2345 [at] cornell.edu or via LinkedIn https://www.linkedin.com/in/julianabain/
